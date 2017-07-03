@@ -3,5 +3,9 @@ Hblab
 
 git clone ...(link git)	:
 git add 'file name'     : Add file name len local
-git add * 		: Add toan bo thay doi len local
+	git add * 		: Add toan bo thay doi len local
+git commit -m"..."	: Commit len git
+	git commit -a -m"..."	: Vua add vua commit
+git push 		: push len server
 
+git pull 		: Luu lai nhung thay doi tren server ve may
