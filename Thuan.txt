@@ -1,7 +1,7 @@
 Le Van Thuan
 Hblab
 
-git clone ...(link git)	:
+git clone ...(link git)	: Clone Reponsitory ve may
 git add 'file name'     : Add file name len local
 	git add * 		: Add toan bo thay doi len local
 git commit -m"..."	: Commit len git
