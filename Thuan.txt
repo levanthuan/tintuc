@@ -1,15 +1,16 @@
 Le Van Thuan
 Hblab
 
-git clone ...(link git)	: Clone Repository ve may
-git add 'file name'     : Add file name len local
+git clone ...(link git)		: Clone Repository ve may
+git add 'file name'     	: Add file name len local
 	git add * 		: Add toan bo thay doi len local
-git commit -m"..."	: Commit len git
+git commit -m"..."		: Commit len git
 	git commit -a -m"..."	: Vua add vua commit
-git push 		: push len server
+git push 			: push len server
 
-git pull 		: Luu lai nhung thay doi tren server ve may
+git pull 			: Luu lai nhung thay doi tren server ve may
 
-cat .git/HEAD		: Kiem tra con tro HEAD dang o branch nao
-git branch 'name branch': Tao 1 branch moi
-git checkout 'name branch': Truy cap vao 1 branch
+cat .git/HEAD			: Kiem tra con tro HEAD dang o branch nao
+git branch 'name branch'	: Tao 1 branch moi
+git checkout 'name branch'	: Truy cap vao 1 branch
+git branch -d 'namebranch'	: Xoa branch
