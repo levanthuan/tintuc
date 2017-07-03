@@ -9,3 +9,7 @@ git commit -m"..."	: Commit len git
 git push 		: push len server
 
 git pull 		: Luu lai nhung thay doi tren server ve may
+
+cat .git/HEAD		: Kiem tra con tro HEAD dang o branch nao
+git branch 'name branch': Tao 1 branch moi
+git checkout 'name branch': Truy cap vao 1 branch
