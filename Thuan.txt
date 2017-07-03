@@ -1,2 +1,7 @@
 Le Van Thuan
 Hblab
+
+git clone ...(link git)	:
+git add 'file name'     : Add file name len local
+git add * 		: Add toan bo thay doi len local
+
