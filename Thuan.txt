@@ -11,6 +11,9 @@ git push 			: push len server
 git pull 			: Luu lai nhung thay doi tren server ve may
 
 cat .git/HEAD			: Kiem tra con tro HEAD dang o branch nao
+git branch			: Xem co bao nhieu branch va con tro HEAD dang tro den branch nao
 git branch 'name branch'	: Tao 1 branch moi
-git checkout 'name branch'	: Truy cap vao 1 branch
+git checkout 'name branch'	: Truy cap vao 1 branch(chuyen con tro xang 1 branch moi)
 git branch -d 'namebranch'	: Xoa branch
+git log --oneline --decorate	: Hien thi con tro HEAD va cac commit
+git push --set-upstream origin 'name branch' : 
