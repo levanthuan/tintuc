@@ -5,6 +5,8 @@ Hblab
 git clone ...(link git)				: Clone Repository ve may
 git add 'file name'     			: Add file name len local
 	git add * 				: Add toan bo thay doi len local
+git add * -f
+git add 'name file'
 git commit -m"..."				: Commit len git
 	git commit -a -m"..."			: Vua add vua commit
 git push 					: push len server
